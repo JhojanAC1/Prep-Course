@@ -1,16 +1,20 @@
 h1 {
     color : rgb(134, 25, 25);
 }
+
 img {
     width: 400px;
 }
+
 #thirdDiv {
     height: 850px;
     width: 500;
     background-color: antiquewhite;
     padding: 50px;
     border: 10px solid rgb(167, 145, 145);
+    margin: 50px;
 }
+
 #spanID {
     font-size: 18px;
     margin: 50px;
